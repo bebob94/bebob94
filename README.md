@@ -53,7 +53,7 @@ Here are the technologies I'm familiar with:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/bebomacis/)
 [![Email](https://img.shields.io/badge/Email-%23D14836.svg?style=flat-square&logo=gmail&logoColor=white)](mailto:bebo.macis@gmail.com)
 
-##📊 GitHub Stats:
+## 📊GitHub Stats:
 
 ![](https://github-readme-stats.vercel.app/api?username=bebob94&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=bebob94&theme=dark&hide_border=false)<br/>
