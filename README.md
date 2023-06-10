@@ -48,13 +48,7 @@ Here are the technologies I'm familiar with:
 [![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-%23007ACC.svg?style=flat-square&logo=visual-studio-code&logoColor=white)](URL_VSCode)
 
 
-
-## Socials
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/alberto-macis-052273153/)](https://www.linkedin.com/in/alberto-macis-052273153/)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/bebomacis/)
-[![Email](https://img.shields.io/badge/Email-%23D14836.svg?style=flat-square&logo=gmail&logoColor=white)](mailto:bebo.macis@gmail.com)
-
+#📊 GitHub Stats:
 
 ![](https://github-readme-stats.vercel.app/api?username=bebob94&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=bebob94&theme=dark&hide_border=false)<br/>
@@ -63,11 +57,10 @@ Here are the technologies I'm familiar with:
 ---
 [![](https://visitcount.itsvg.in/api?id=bebob94&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## My Best Project
 
-This is my best project so far. You can find it at the following link:
+## Socials
 
-[M.V.S.Sports](https://github.com/bebob94/MVS_Sports)
-
-
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/alberto-macis-052273153/)](https://www.linkedin.com/in/alberto-macis-052273153/)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/bebomacis/)
+[![Email](https://img.shields.io/badge/Email-%23D14836.svg?style=flat-square&logo=gmail&logoColor=white)](mailto:bebo.macis@gmail.com)
 
