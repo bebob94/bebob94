@@ -4,7 +4,7 @@
 # About Me
 
 Hello everyone!🙋🏻‍♂️ My name is Alberto Macis, and I am a young man with extensive experience in various sales-related fields🤝🏻, customer relationship management, and direct customer assistance🆘. Currently, I am expanding my skills in FullStack Web Development👨🏻‍💻 , I have graduated on June 8th 2023 in an intensive course with Epicode Italia, where I have learned to develop both front-end and back-end web applications using the latest technologies.
-
+<br>
 
 ## Tech Stack
 
