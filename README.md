@@ -47,7 +47,7 @@ Here are the technologies I'm familiar with:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=flat-square&logo=discord&logoColor=white)](URL_Discord)
 [![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-%23007ACC.svg?style=flat-square&logo=visual-studio-code&logoColor=white)](URL_VSCode)
 
-
+<br>
 
 ## 📊GitHub Stats:
 
