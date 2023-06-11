@@ -13,7 +13,6 @@ Here are the technologies I'm familiar with:
 [![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat-square&logo=java&logoColor=white)](URL_Java)
 [![Eclipse](https://img.shields.io/badge/Eclipse-%232C2255.svg?style=flat-square&logo=eclipse&logoColor=white)](URL_Eclipse)
 [![Spring](https://img.shields.io/badge/Spring-%236DB33F.svg?style=flat-square&logo=spring&logoColor=white)](URL_Spring)
-[![jQuery](https://img.shields.io/badge/jQuery-%230769AD.svg?style=flat-square&logo=jquery&logoColor=white)](URL_jQuery)
 [![Maven](https://img.shields.io/badge/Maven-%23C71A36.svg?style=flat-square&logo=apache-maven&logoColor=white)](URL_Maven)
 [![Spring Boot](https://img.shields.io/badge/Spring_Boot-%236DB33F.svg?style=flat-square&logo=spring&logoColor=white)](URL_Spring_Boot)
 [![Spring Data JPA](https://img.shields.io/badge/Spring_Data_JPA-%23F05032.svg?style=flat-square&logo=spring&logoColor=white)](URL_Spring_Data_JPA)
