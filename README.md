@@ -1,7 +1,4 @@
 
-![_get_premium_download_high_resolution_imagedesigned_with_EDIT org (4)](https://github.com/bebob94/bebob94/assets/119256128/e2a67be9-ff59-4867-911a-68dd900455da)
-
-
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=25&duration=3000&pause=2000&color=25A149&background=FF193A00&width=465&lines=+Welcome+on+Macis+Alberto's+GitHub)](https://git.io/typing-svg)
 
 # About Me
